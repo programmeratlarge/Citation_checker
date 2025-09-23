@@ -1,4 +1,6 @@
-# 🔎 Citation Verifier
+![Citation Checker](./logo_magnifying_glass_examining_a_manuscript_transparent.png)
+
+# 🔎 Citation Checker
 
 Verify the validity of **citations in scientific and academic papers**.  
 Upload a PDF/DOCX or paste a **URL** or **DOI**, and the app:
@@ -12,7 +14,13 @@ Upload a PDF/DOCX or paste a **URL** or **DOI**, and the app:
 
 ---
 
-## 1) What it does
+## Run live app
+
+👉 **[Open the Citation Verifier on Hugging Face](https://huggingface.co/spaces/your-org/citation-verifier)**  
+
+---
+
+## What it does
 
 - **Input sources**: file upload (**PDF/DOCX**), **URL** (publisher/arXiv/DOI page), or **DOI only** (e.g., `10.1038/...`).
 - **Extraction**: finds the References/Bibliography section and structures citations (authors, title, year, DOI…).
@@ -25,7 +33,7 @@ Upload a PDF/DOCX or paste a **URL** or **DOI**, and the app:
 
 ---
 
-## 2) How to use (with example)
+## How to use (with example)
 
 1. **Open the app** (see the Hugging Face link below).
 2. In the “About” box, review the quick steps.
@@ -48,14 +56,7 @@ Paste the DOI `10.1101/515643` (bioRxiv). Even if the publisher blocks direct PD
 
 ---
 
-## 3) Live app (Hugging Face)
-
-👉 **[Open the Citation Verifier on Hugging Face](https://huggingface.co/spaces/your-org/citation-verifier)**  
-*(Replace with your actual Space URL if different.)*
-
----
-
-## 4) Install & run locally
+## Install & run locally
 
 ### Minimum requirements
 - **Python** ≥ 3.12  
