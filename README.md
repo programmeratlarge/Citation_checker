@@ -1,4 +1,4 @@
-![Citation Checker](./logo_magnifying_glass_examining_a_manuscript_transparent.png)
+<img src="./logo_magnifying_glass_examining_a_manuscript_transparent.png" alt="Citation Checker" width="25%">
 
 # 🔎 Citation Checker
 
@@ -16,7 +16,7 @@ Upload a PDF/DOCX or paste a **URL** or **DOI**, and the app:
 
 ## Run live app
 
-👉 **[Open the Citation Verifier on Hugging Face](https://huggingface.co/spaces/your-org/citation-verifier)**  
+👉 **[Open the Citation Checker on Hugging Face](https://huggingface.co/spaces/your-org/citation-verifier)**  
 
 ---
 
